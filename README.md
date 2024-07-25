@@ -4,7 +4,8 @@
 
 ## Projeto:
 
-|          Inicio          | 
-| ------------------------ | 
-| planejamento | execução  |
-|        encerramento      |
+|    Inicio    | 
+| ------------ |
+| planejamento |   
+| encerramento |
+| execução     |
