@@ -1,3 +1,3 @@
 # Projeto Full Exemplo
 
-## Autenticação JWT
+## Autenticação JWT (JSON WEB TOKEN)
